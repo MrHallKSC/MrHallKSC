@@ -1,16 +1,74 @@
-## Hi there 👋
+# 👋 Hi, I’m Oliver Hall
 
-<!--
-**MrHallKSC/MrHallKSC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Computer Science teacher and Head of Computer Science at The King’s School, Chester.  
 
-Here are some ideas to get you started:
+## 📫 Connect
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- GitHub: https://github.com/MrHallKSC
+- Website: https://www.oliverhall.com/ :contentReference[oaicite:3]{index=3}
+
+---
+
+## 📚 What I Teach
+
+**GCSE – Edexcel 1CP2 (Python)**  
+I support students with structured projects, practice code, and utilities that link computational thinking to coding. :contentReference[oaicite:4]{index=4}
+
+**A-level – AQA 7517 (C# & WPF)**  
+I build Windows applications to illustrate:
+
+- UI design with WPF  
+- OOP principles in real projects  
+- Database connections and event-driven programming :contentReference[oaicite:5]{index=5}
+
+---
+
+## 🔧 Public Repositories
+
+Below are selected public repos with short descriptions.
+
+### ⭐ Exemplar & Teaching Projects
+
+- **GridExemplarWPF**  
+  A simple WPF project showing how to draw and work with a grid in a desktop app.  
+  _Useful for teaching layout, rendering and basic event-handling._
+
+- **DatabaseExampleWPF**  
+  C# WPF example that connects to a SQLite database.  
+  _Teaches data persistence, Model-View patterns and desktop UI interaction._
+
+- **SnookerWPF**  
+  A small WPF snooker game example demonstrating:  
+  - Complex UI  
+  - Game logic design  
+  - OOP in practice  
+
+- **terms-matching-tool**  
+  A quick **HTML/JS tool** for matching terms (useful for vocab quizzes, revision helpers).
+
+> Links above resolve under your main profile (https://github.com/MrHallKSC). :contentReference[oaicite:6]{index=6}
+
+---
+
+## 📦 Skills & Tools
+
+- **Languages**: Python, C#, HTML  
+- **Frameworks**: WPF  
+- **Techniques**: UI design, event-driven programming, databases
+
+---
+
+## 🧠 Teaching Philosophy
+
+I focus on clear examples that students can explore and extend:
+
+- Start with simple code that works  
+- Add features step by step  
+- Explain patterns and best practices  
+- Share reusable templates for lessons
+
+
+
+---
+
+If you want a version with badges (stats, most-used languages) or a section for **student resources** (exercises, worksheets), tell me and I’ll add it.
