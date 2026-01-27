@@ -23,30 +23,17 @@ I build Windows applications to illustrate:
 
 ---
 
-## 🔧 Public Repositories
+### ⭐ Exemplar C#/WPF Projects Projects
 
-Below are selected public repos with short descriptions.
+- **[SnookerWPF](https://github.com/MrHallKSC/SnookerWPF)**  
+  C# WPF snooker game used to teach OOP, events, and UI layout (AQA 7517).
 
-### ⭐ Exemplar & Teaching Projects
+- **[GridExemplarWPF](https://github.com/MrHallKSC/GridExemplarWPF)**  
+  Minimal WPF grid example for layout and rendering.
 
-- **GridExemplarWPF**  
-  A simple WPF project showing how to draw and work with a grid in a desktop app.  
-  _Useful for teaching layout, rendering and basic event-handling._
+- **[DatabaseExampleWPF](https://github.com/MrHallKSC/DatabaseExampleWPF)**  
+  SQLite + WPF example showing persistence and basic MVVM ideas.
 
-- **DatabaseExampleWPF**  
-  C# WPF example that connects to a SQLite database.  
-  _Teaches data persistence, Model-View patterns and desktop UI interaction._
-
-- **SnookerWPF**  
-  A small WPF snooker game example demonstrating:  
-  - Complex UI  
-  - Game logic design  
-  - OOP in practice  
-
-- **terms-matching-tool**  
-  A quick **HTML/JS tool** for matching terms (useful for vocab quizzes, revision helpers).
-
-> Links above resolve under your main profile (https://github.com/MrHallKSC).
 
 ---
 
