@@ -5,21 +5,21 @@ I’m a Computer Science teacher and Head of Computer Science at The King’s Sc
 ## 📫 Connect
 
 - GitHub: https://github.com/MrHallKSC
-- Website: https://www.oliverhall.com/ :contentReference[oaicite:3]{index=3}
+- Website: https://www.oliverhall.com/
 
 ---
 
 ## 📚 What I Teach
 
 **GCSE – Edexcel 1CP2 (Python)**  
-I support students with structured projects, practice code, and utilities that link computational thinking to coding. :contentReference[oaicite:4]{index=4}
+I support students with structured projects, practice code, and utilities that link computational thinking to coding.
 
 **A-level – AQA 7517 (C# & WPF)**  
 I build Windows applications to illustrate:
 
 - UI design with WPF  
 - OOP principles in real projects  
-- Database connections and event-driven programming :contentReference[oaicite:5]{index=5}
+- Database connections and event-driven programming
 
 ---
 
@@ -46,7 +46,7 @@ Below are selected public repos with short descriptions.
 - **terms-matching-tool**  
   A quick **HTML/JS tool** for matching terms (useful for vocab quizzes, revision helpers).
 
-> Links above resolve under your main profile (https://github.com/MrHallKSC). :contentReference[oaicite:6]{index=6}
+> Links above resolve under your main profile (https://github.com/MrHallKSC).
 
 ---
 
@@ -68,7 +68,3 @@ I focus on clear examples that students can explore and extend:
 - Share reusable templates for lessons
 
 
-
----
-
-If you want a version with badges (stats, most-used languages) or a section for **student resources** (exercises, worksheets), tell me and I’ll add it.
